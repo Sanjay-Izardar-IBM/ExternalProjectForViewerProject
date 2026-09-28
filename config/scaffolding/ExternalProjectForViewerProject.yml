@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ExternalProjectForViewerProject
+  gitServerName: sanjay_ibm
+  gitUrl: https://github.com/Sanjay-Izardar-IBM
+  gitUsername: Sanjay-Izardar-IBM
+  gitBranch: main
